@@ -1,5 +1,4 @@
 # KRS_Cars_Showroom
-# Car Showroom Website
 
 This is a **responsive web application** for showcasing luxury cars, designed with **HTML** and **CSS**. It includes a homepage, multiple car listing pages, and individual car detail pages, allowing users to explore high-end vehicles in a stylish, interactive layout.
 
